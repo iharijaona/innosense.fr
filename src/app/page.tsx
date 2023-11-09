@@ -1,8 +1,6 @@
-import Image from 'next/image'
 import Footer from "../components/Footer"
 import Header from "../components/Header"
 import GridPattern from '../components/GridPattern'
-import styles from './page.module.css'
 
 export default function Home() {
   return (
