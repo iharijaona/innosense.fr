@@ -7,7 +7,7 @@ const comfortaa = Comfortaa({ subsets: ['latin'] })
 const siteUrl = "https://www.innosense.fr";
 const siteImage = `${siteUrl}/images/avatar-bigjohn.png`;
 const siteTitle = "INNOSENSE | Experte end Développement d'API, Application Web et Infrastructure Cloud";
-const siteDescription = 'Innovez avec confiance grâce à notre savoir-faire. Cultivez l\'innovation grâce à notre expertise exceptionnelle en développement d\'API, Application Web et mise en place d\'infrastructure Cloud et DevOps. Nous transformons vos idées en réalité numérique.';
+const siteDescription = `Innovez avec confiance grâce à notre savoir-faire. Cultivez l'innovation grâce à notre expertise exceptionnelle en développement d'API, Application Web et mise en place d'infrastructure Cloud et DevOps. Nous transformons vos idées en réalité numérique.`;
 
 export const metadata: Metadata = {
   title: siteTitle,
