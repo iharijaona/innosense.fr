@@ -17,7 +17,8 @@ export default function Home() {
                   Innovez avec confiance grâce à notre savoir-faire.
                 </h1>
                 <p className="mt-6 text-xl text-neutral-600">
-                  Cultivez l'innovation grâce à notre expertise exceptionnelle en développement web, architecture de solutions cloud/devops.<br/> 
+                  {`Cultivez l'innovation grâce à notre expertise exceptionnelle en développement web, architecture de solutions cloud/devops.`}
+                  <br/> 
                   Nous transformons vos idées en réalité numérique.
                 </p>
               </div>
