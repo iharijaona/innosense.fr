@@ -1,5 +1,4 @@
 import React from "react";
-import Image from 'next/image'
 
 const Header = () => {
   return (
@@ -9,7 +8,7 @@ const Header = () => {
           <div className='mx-auto max-w-2xl lg:max-w-none'>
             <div className='flex items-center justify-between' >
               <a aria-label='Home' href='/'>
-                <Image alt="INNOSENSE LOGO"  className="w-48" src="innosene-logo.svg" />
+                <img alt="INNOSENSE LOGO"  className="w-48" src="innosene-logo.svg" />
               </a>
               <div className="flex items-center gap-x-8">
                 <a className="inline-flex rounded-full px-4 py-1.5 text-sm font-semibold transition bg-neutral-950 text-white hover:bg-neutral-800" >

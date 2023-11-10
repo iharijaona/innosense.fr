@@ -1,5 +1,4 @@
 import React from "react";
-import Image from 'next/image'
 
 const Footer = () => {
   return (
@@ -8,7 +7,7 @@ const Footer = () => {
         <div className="mb-20 mt-24 flex flex-col items-center sm:flex-wrap sm:flex-row sm:items-end sm:justify-between gap-x-6 gap-y-4 border-t border-neutral-950/10 pt-12">
           <p className="text-sm text-neutral-700">Copyright © {new Date().getFullYear()} | Tous droits réservés.</p>
           <a aria-label="Home" className="max-w-fit" href="/">
-            <Image alt="INNOSSENSE LABEL" className="w-32" src="innosense-label.svg" />
+            <img alt="INNOSSENSE LABEL" className="w-32" src="innosense-label.svg" />
           </a>
         </div>
       </div>
