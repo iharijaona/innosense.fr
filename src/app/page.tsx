@@ -38,9 +38,8 @@ export default function Home() {
                 </h2>
                 <div className="mt-6 text-xl text-neutral-600">
                   <p>
-                    Nous sommes spécialisés dans le développement de solutions numériques sur mesure, la maintenance d'applications et logiciels spécifiques.
-                    Nous proposons également des services tels que l'Architecture de Solutions et DevOps.
-                    Notre champ d'intervention couvre tous les besoins des entreprises en matière de services numériques et transformation digitale.
+                    Experts en développement sur mesure, maintenance d'applications et architecture de solutions et infrastructure cloud. 
+                    Proposant des services DevOps, nous répondons à tous les besoins pour une transformation digitale réussie.
                   </p>
                   </div>
                 </div>
