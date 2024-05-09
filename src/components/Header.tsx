@@ -28,11 +28,11 @@ const Header = () => {
                 <a aria-label="Home" href="/">
                   <img
                     alt="INNOSENSE LOGO"
-                    className="w-48"
+                    className="w-36 sm:w-48"
                     src="innosene-logo.svg"
                   />
                 </a>
-                <div className="flex items-center gap-x-8">
+                <div className="flex items-center gap-x-4 sm:gap-x-8">
                   <a 
                     style={{ cursor: "pointer" }} 
                     className="inline-flex rounded-full px-4 py-1.5 text-sm font-semibold transition bg-neutral-950 text-white hover:bg-neutral-800"
@@ -80,11 +80,11 @@ const Header = () => {
                     <a aria-label="Home" href="/">
                       <img
                         alt="INNOSENSE LOGO"
-                        className="w-48"
+                        className="w-36 sm:w-48"
                         src="innosene-logo-light.svg"
                       />
                     </a>
-                    <div className="flex items-center gap-x-8">
+                    <div className="flex items-center gap-x-4 sm:gap-x-8">
                       <a
                         style={{ cursor: "pointer" }}
                         className="inline-flex rounded-full px-4 py-1.5 text-sm font-semibold transition bg-white text-neutral-950 hover:bg-neutral-200"
