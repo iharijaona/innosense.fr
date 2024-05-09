@@ -7,7 +7,7 @@
    id="svg36"
    sodipodi:docname="innosene-large-logo.svg"
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
-   inkscape:export-filename="innosene-simple-logo.png"
+   inkscape:export-filename="framed-logo-revert.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,14 +26,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
      inkscape:zoom="0.13910216"
-     inkscape:cx="639.81753"
-     inkscape:cy="2246.5503"
+     inkscape:cx="3030.1471"
+     inkscape:cy="1685.8113"
      inkscape:window-width="1728"
      inkscape:window-height="977"
-     inkscape:window-x="0"
+     inkscape:window-x="1"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg36">
+     inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid1261"
@@ -51,6 +51,18 @@
        width="1141.1598"
        height="430.02582"
        id="page833" />
+    <inkscape:page
+       x="462.20526"
+       y="-2.7336262e-07"
+       width="429.8699"
+       height="397.5347"
+       id="page687" />
+    <inkscape:page
+       x="930.11674"
+       y="9.5103993"
+       width="412.75119"
+       height="391.82845"
+       id="page1345" />
   </sodipodi:namedview>
   <defs
      id="defs34">
@@ -104,6 +116,98 @@
            style="color:#000000;fill:#6ec92f;stroke:#6ec92f;stroke-width:0.708622;stroke-opacity:1;-inkscape-stroke:none"
            d="M 1096.4743,1161.1982 L 1096.7035,1194.4216 L 1096.8217,1223.9544 L 1096.8358,1227.6032 L 1099.9179,1227.6016 C 1128.1628,1227.5855 1154.118,1222.0989 1168.9653,1212.3233 C 1176.389,1207.4355 1180.9776,1201.3935 1180.939,1194.3149 C 1180.9005,1187.2362 1176.2636,1181.2338 1168.7936,1176.3622 C 1158.6538,1169.7492 1143.4082,1165.1164 1125.8295,1162.8288 C 1115.1004,1162.4246 1106.2294,1161.1883 1096.4743,1161.1982 Z"
            sodipodi:nodetypes="cccccssscc" />
+      </g>
+    </g>
+    <g
+       id="g1488"
+       inkscape:export-filename="logo-revert.png"
+       inkscape:export-xdpi="39.002052"
+       inkscape:export-ydpi="39.002052">
+      <path
+         stroke="#0a192f"
+         stroke-linejoin="round"
+         d="M 1419.5773,615.41273 V 778.11473 L 1580.2864,861.27273 L 1740.9954,781.72973 V 619.02773 L 1580.2864,535.86977 Z"
+         fill="#0a192f"
+         stroke-width="8.036"
+         id="path2-1-7-8-9-6"
+         inkscape:export-filename="favicon.png"
+         inkscape:export-xdpi="39.002052"
+         inkscape:export-ydpi="39.002052"
+         inkscape:label="background-frame"
+         style="display:inline;fill:#6ec92f;fill-opacity:1;stroke:#6ec92f;stroke-opacity:1" />
+      <g
+         id="g4054-4-5"
+         transform="translate(464.49686,-433.01625)"
+         style="display:inline">
+        <path
+           id="path1406-0-0-0-5-1-7-5"
+           style="color:#000000;fill:#0a152f;stroke:#6ec92f;stroke-width:0.708622;stroke-opacity:1;-inkscape-stroke:none;fill-opacity:1"
+           d="M 1128.1825,1118.9398 L 1131.3005,1118.9366 L 1131.0713,1085.7132 L 1130.953,1056.1804 L 1130.939,1052.5316 L 1127.8569,1052.5332 C 1099.612,1052.5493 1073.6568,1058.0359 1058.8094,1067.8115 C 1051.3858,1072.6993 1046.7972,1078.7413 1046.8358,1085.8199 C 1046.8743,1092.8986 1051.5112,1098.901 1058.9811,1103.7726 C 1069.121,1110.3856 1084.3666,1115.0184 1101.9453,1117.306 L 1126.7589,1118.9326 C 1127.2334,1118.9352 1127.7067,1118.9402 1128.1825,1118.9398 Z" />
+        <path
+           id="path10-5-6-9-0-8"
+           style="fill:#0a152f;fill-opacity:1;stroke:#6ec92f;stroke-width:1.0439;stroke-opacity:1"
+           inkscape:label="i-point"
+           d="M 1101.2741,1010.1956 C 1097.9977,1010.1956 1097.9902,1009.4577 1097.9902,1028.1069 V 1033.2799 C 1107.4402,1031.9835 1117.3914,1031.3097 1127.582,1031.3029 L 1131.1597,1031.3005 V 1010.1956 Z" />
+        <g
+           id="g4015-4-1"
+           transform="translate(0,-19.776)">
+          <path
+             id="path1406-0-0-8-3-3-0-4"
+             style="color:#000000;display:inline;fill:#0a152f;fill-opacity:0.96470606;stroke:#6ec92f;stroke-width:1.29922;stroke-opacity:0.5;-inkscape-stroke:none"
+             inkscape:label="path1406-0-0-8-3-3"
+             d="M 1061.8315,1227.9578 L 1061.9141,1248.586 L 1061.94,1255.2755 L 1067.5908,1255.2724 C 1077.2823,1255.2669 1086.8264,1254.91 1096.1177,1254.2161 V 1227.9578 Z" />
+          <path
+             id="path1406-0-0-8-3-6-7"
+             style="color:#000000;fill:#0a152f;stroke:#6ec92f;stroke-width:0.708622;stroke-opacity:1;-inkscape-stroke:none;fill-opacity:1"
+             d="M 1096.4743,1161.1982 L 1096.7035,1194.4216 L 1096.8217,1223.9544 L 1096.8358,1227.6032 L 1099.9179,1227.6016 C 1128.1628,1227.5855 1154.118,1222.0989 1168.9653,1212.3233 C 1176.389,1207.4355 1180.9776,1201.3935 1180.939,1194.3149 C 1180.9005,1187.2362 1176.2636,1181.2338 1168.7936,1176.3622 C 1158.6538,1169.7492 1143.4082,1165.1164 1125.8295,1162.8288 C 1115.1004,1162.4246 1106.2294,1161.1883 1096.4743,1161.1982 Z"
+             sodipodi:nodetypes="cccccssscc" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1419"
+       inkscape:export-filename="framed-logo-revert.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         stroke="#0a192f"
+         stroke-linejoin="round"
+         d="M 1868.4681,615.41273 V 778.11473 L 2029.1772,861.27273 L 2189.8862,781.72973 V 619.02773 L 2029.1772,535.86977 Z"
+         fill="#0a192f"
+         stroke-width="8.036"
+         id="path2-1-7-8-9-6-8"
+         inkscape:export-filename="favicon.png"
+         inkscape:export-xdpi="39.002052"
+         inkscape:export-ydpi="39.002052"
+         inkscape:label="background-frame"
+         style="display:inline;fill:#6ec92f;fill-opacity:1;stroke:#0a192f;stroke-opacity:1" />
+      <g
+         id="g4054-4-5-7"
+         transform="translate(913.38762,-433.01625)"
+         style="display:inline">
+        <path
+           id="path1406-0-0-0-5-1-7-5-7"
+           style="color:#000000;fill:#0a152f;fill-opacity:1;stroke:#6ec92f;stroke-width:0.708622;stroke-opacity:1;-inkscape-stroke:none"
+           d="M 1128.1825,1118.9398 L 1131.3005,1118.9366 L 1131.0713,1085.7132 L 1130.953,1056.1804 L 1130.939,1052.5316 L 1127.8569,1052.5332 C 1099.612,1052.5493 1073.6568,1058.0359 1058.8094,1067.8115 C 1051.3858,1072.6993 1046.7972,1078.7413 1046.8358,1085.8199 C 1046.8743,1092.8986 1051.5112,1098.901 1058.9811,1103.7726 C 1069.121,1110.3856 1084.3666,1115.0184 1101.9453,1117.306 L 1126.7589,1118.9326 C 1127.2334,1118.9352 1127.7067,1118.9402 1128.1825,1118.9398 Z" />
+        <path
+           id="path10-5-6-9-0-8-4"
+           style="fill:#0a152f;fill-opacity:1;stroke:#6ec92f;stroke-width:1.0439;stroke-opacity:1"
+           inkscape:label="i-point"
+           d="M 1101.2741,1010.1956 C 1097.9977,1010.1956 1097.9902,1009.4577 1097.9902,1028.1069 V 1033.2799 C 1107.4402,1031.9835 1117.3914,1031.3097 1127.582,1031.3029 L 1131.1597,1031.3005 V 1010.1956 Z" />
+        <g
+           id="g4015-4-1-4"
+           transform="translate(0,-19.776)">
+          <path
+             id="path1406-0-0-8-3-3-0-4-9"
+             style="color:#000000;display:inline;fill:#0a152f;fill-opacity:0.964706;stroke:#6ec92f;stroke-width:1.29922;stroke-opacity:0.5;-inkscape-stroke:none"
+             inkscape:label="path1406-0-0-8-3-3"
+             d="M 1061.8315,1227.9578 L 1061.9141,1248.586 L 1061.94,1255.2755 L 1067.5908,1255.2724 C 1077.2823,1255.2669 1086.8264,1254.91 1096.1177,1254.2161 V 1227.9578 Z" />
+          <path
+             id="path1406-0-0-8-3-6-7-1"
+             style="color:#000000;fill:#0a152f;fill-opacity:1;stroke:#6ec92f;stroke-width:0.708622;stroke-opacity:1;-inkscape-stroke:none"
+             d="M 1096.4743,1161.1982 L 1096.7035,1194.4216 L 1096.8217,1223.9544 L 1096.8358,1227.6032 L 1099.9179,1227.6016 C 1128.1628,1227.5855 1154.118,1222.0989 1168.9653,1212.3233 C 1176.389,1207.4355 1180.9776,1201.3935 1180.939,1194.3149 C 1180.9005,1187.2362 1176.2636,1181.2338 1168.7936,1176.3622 C 1158.6538,1169.7492 1143.4082,1165.1164 1125.8295,1162.8288 C 1115.1004,1162.4246 1106.2294,1161.1883 1096.4743,1161.1982 Z"
+             sodipodi:nodetypes="cccccssscc" />
+        </g>
       </g>
     </g>
   </g>
