@@ -37,7 +37,7 @@ const Header = () => {
                     style={{ cursor: "pointer" }} 
                     className="inline-flex rounded-full px-4 py-1.5 text-sm font-semibold transition bg-neutral-950 text-white hover:bg-neutral-800"
                     href="#contact" >
-                    Contact us
+                    Contactez-nous
                   </a>
                   <button
                     type="button"
@@ -167,7 +167,7 @@ const Header = () => {
                   <div className="grid grid-cols-1 gap-y-10 pb-16 pt-10 sm:grid-cols-2 sm:pt-16">
                     <div>
                       <h2 className="font-display text-base font-semibold text-white">
-                        Our office
+                        Notre bureau
                       </h2>
                       <ul
                         role="list"
