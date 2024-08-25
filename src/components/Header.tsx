@@ -90,7 +90,7 @@ const Header = () => {
                         className="inline-flex rounded-full px-4 py-1.5 text-sm font-semibold transition bg-white text-neutral-950 hover:bg-neutral-200"
                         href="#contact"
                       >
-                        <span className="relative top-px">Contact us</span>
+                        <span className="relative top-px">Contactez-nous</span>
                       </a>
                       <button
                         type="button"
