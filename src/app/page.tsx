@@ -17,12 +17,10 @@ export default function Home() {
             <div className="mx-auto max-w-2xl lg:max-w-none">
               <div className="max-w-3xl">
                 <h1 className="font-display text-4xl font-medium tracking-tight text-blue-950 [text-wrap:balance] sm:text-6xl">
-                  Libérez votre potentiel digital avec des solutions innovantes et sur mesure
+                  Libérez votre potentiel digital avec des solutions 
                 </h1>
                 <p className="mt-6 text-xl text-neutral-600">
-                  {`Cultivez l'innovation grâce à notre expertise exceptionnelle en développement web, architecture de solutions cloud/devops.`}
-                  <br/> 
-                  Nous transformons vos idées en réalité numérique.
+                  Nous accompagnons les entreprises dans leur transformation digitale grâce à des solutions innovantes et sur mesure.
                 </p>
               </div>
             </div>
